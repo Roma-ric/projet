@@ -1,5 +1,7 @@
 # GIT & GITHUB : [https://github.com/Roma-ric](https://github.com/Roma-ric)
 
+![](./git-github.091720.png)
+
 >Je fais mes débuts avec ***`Git`*** et ***`GitHub`***.\
 Cela me permettra de bien gérer le versionning des mes projects et de pouvoir les stockers en ligne afin de les récuperer une fois le besoin senti.
 
