@@ -5,7 +5,7 @@
 >Je fais mes débuts avec ***`Git`*** et ***`GitHub`***.\
 Cela me permettra de bien gérer le versionning des mes projects et de pouvoir les stockers en ligne afin de les récuperer une fois le besoin senti.
 
-## Procédure
+## `Procédure`
 
 * Installer Git sur son ordinateur
 
@@ -67,7 +67,7 @@ Cela me permettra de bien gérer le versionning des mes projects et de pouvoir l
 
         git push -u origin master
 
-## Autres
+## `Autres`
 
 * Voir les branches du repository
 
@@ -109,7 +109,7 @@ Cela me permettra de bien gérer le versionning des mes projects et de pouvoir l
 
         git status 
 
-## Gérer les erreurs
+## `Gérer les erreurs`
 
 * Supprimer une branche
 
@@ -154,8 +154,26 @@ Cela me permettra de bien gérer le versionning des mes projects et de pouvoir l
         git add fichier.text
         git commit --amend --no-edit
 
-## Créer une paire de cle SSH
+## `Créer une paire de clé SSH`
 
     ssh-keygen -t rsa -b 4096 -C "adresseMailUser@gmail.com"
 
+## `Consulter l'historique du projet`
+
+* Voir la liste des commit
+
+        git log
+
+* Voir la liste des commits +++
+
+        git reflog
+
+* Voir les informations sur l'auteur de chaque ligne dans un fichier
+
+        git blame nom_du_fichier.html
+
+## `Selectionner des commits d'un dépôt à fusionner  avec le dépôt principal` 
+
+    git cherry-pick 8_premiers_caractères_de_l_ID
+---
 **Mon adresse mail: <romaricakodjenou54@gmail.com>**
