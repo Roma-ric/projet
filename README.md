@@ -65,7 +65,7 @@ Cela me permettra de bien gérer le versionning des mes projects et de pouvoir l
 
         git push -u origin master
 
----
+## Autres
 
 * Voir les branches du repository
 
@@ -152,5 +152,8 @@ Cela me permettra de bien gérer le versionning des mes projects et de pouvoir l
         git add fichier.text
         git commit --amend --no-edit
 
----
+## Créer une paire de cle SSH
+
+    ssh-keygen -t rsa -b 4096 -C "adresseMailUser@gmail.com"
+
 **Mon adresse mail: <romaricakodjenou54@gmail.com>**
