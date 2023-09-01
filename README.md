@@ -14,7 +14,7 @@ Cela me permettra de bien gérer le versionning des mes projects et de pouvoir l
         cd Documents/
         mkdir nom_du_dossier
 
-* Procéder a la configuration de Git   
+* Procéder à la configuration de Git   
 
     * Accéder au dossier du project
 
